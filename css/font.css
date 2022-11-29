@@ -17,3 +17,8 @@
     font-family: "Montserrat-ExtraLight";
     src: url(../fonts/montserrat/Montserrat-ExtraLight.ttf);
 }
+
+@font-face {
+    font-family: "montserrat-Regular";
+    src: url(../fonts/montserrat/Montserrat-Regular.ttf);
+}
